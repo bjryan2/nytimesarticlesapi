@@ -1,5 +1,2 @@
 #NYTimes Article API
 ----
-
-
-
